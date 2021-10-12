@@ -15,7 +15,6 @@ A short description of the following :
 - Resolution 
 - Os version
 - Minimap Version you are using
-- [ ] Is it related to the coordinates' system ?
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
