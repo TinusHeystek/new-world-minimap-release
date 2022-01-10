@@ -2,7 +2,7 @@
 *This repository is **not** affiliated with Amazon Games, we do not guarantee that the software we provide will work for you nor that it won't get you banned.*
 
 ## Discord Community
-For ant support or suggestion please feel free to join the Discord channel https://discord.gg/rVmaJpypkP 
+For any support or suggestion please feel free to join the Discord channel https://discord.gg/rVmaJpypkP 
 
 ## New world minimap
 This tool is a resource minimap for New World that shows the resources listed on https://www.newworld-map.com/ . This Minimap could be used to assist you in finding and discovering resources near your current location. It is not meant to replace the In-Game Map or Compass, it is a tool like any other online resource website that shows and documents resource nodes in Aeternum.
